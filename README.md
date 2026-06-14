@@ -1,5 +1,5 @@
 # Hello, I'm Nivin K.M
-<a href="www.linkedin.com/in/nivin-k-m-63732a322"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nivin-k-m-63732a322/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am a recent graduate with a profound interest in cybersecurity and a dedication to solving problems.
