@@ -23,8 +23,10 @@ Entry-level cybersecurity and IT professional with a strong foundation in securi
 
 ## Certifications
 <div>
-<a href=https://www.credly.com/badges/101dd1ce-43aa-4741-bf51-6f8f74837ade/public_url><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<a href=https://www.credly.com/badges/d9fe9315-bcdf-4734-a52d-46a9bc38c2b7/public_url><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href=https://www.credly.com/badges/101dd1ce-43aa-4741-bf51-6f8f74837ade/public_url><img width="126" height="126" alt="comptia-security-ce-certification (2)" src="https://github.com/user-attachments/assets/5b3bd574-cd19-41b9-aa8f-d78e811e5752" />
+</a>
+<a href=https://www.credly.com/badges/d9fe9315-bcdf-4734-a52d-46a9bc38c2b7/public_url><img width="126" height="126" alt="comptia-network-ce-certification 1 (1)" src="https://github.com/user-attachments/assets/220f62b5-406a-4a02-93b2-8cc3d9b14020" />
+</a>
 </div>
 
 ## Projects
