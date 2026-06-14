@@ -23,7 +23,7 @@ Entry-level cybersecurity and IT professional with a strong foundation in securi
 
 ## Certifications
 <div>
-<a= href=https://www.credly.com/badges/101dd1ce-43aa-4741-bf51-6f8f74837ade/public_url><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href=https://www.credly.com/badges/101dd1ce-43aa-4741-bf51-6f8f74837ade/public_url><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <a href=https://www.credly.com/badges/d9fe9315-bcdf-4734-a52d-46a9bc38c2b7/public_url><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 </div>
 
